@@ -13,3 +13,4 @@ TODO:
 
 Needs to export incrementally and to version up as well for the exported glTFs, potentially adding metadata.
 
+![Addon in action](https://github.com/user-attachments/assets/df5670c0-e0dd-4b36-af42-ab4445e878f7)
